@@ -1,4 +1,4 @@
-# SEPOMEX SQL Scripts
+ï»¿# SEPOMEX SQL Scripts
 
 ## English
 
@@ -10,7 +10,7 @@ SQL script for data migration of SEPOMEX zip code information (Mexico).
 3. Upload the aforementioned file on the Database platform of your choice.
 4. Do any necessary data conversions before finally storing the uploaded information.
 
-Information updated: <strong>2022-01-27</strong>
+Information updated: <strong>2022-01-27.</strong>
 Do you want to contribute to this repository and update it? [Contact me...](mailto:boraolim@hotmail.com)
 
 ## Spanish
@@ -23,6 +23,8 @@ Script SQL para la migración de datos de la información de códigos postales de S
 3. Realice la subida del archivo anteriormente mencionado en la plataforma de Base de Datos de su preferencia.
 4. Haga las conversiones de datos necesarias antes de almacenar finalmente la información cargada.
 
-Información actualizada: <strong>2022-01-27</strong>
+Información actualizada: <strong>2022-01-27.</strong>
 ¿Deseas colaborar en este repositorio y actualizarlo? [Contactame...](mailto:boraolim@hotmail.com)
+
+[Source here.](https://tucodigo.mx/index.php)
 
