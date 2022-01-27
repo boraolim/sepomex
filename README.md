@@ -15,14 +15,14 @@ Do you want to contribute to this repository and update it? [Contact me...](mail
 
 ## Spanish
 
-Script SQL para la migraci贸n de datos de la informaci贸n de c贸digos postales de SEPOMEX (M茅xico).
+Script SQL para la migraci髇 de datos de la informaci髇 de c骴igos postales de SEPOMEX (M閤ico).
 
 ### Instrucciones:
 1. Descargue el archivo de texto plano desde este enlace: [CodigoPostal_Exportar](https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/CodigoPostal_Exportar.aspx)
-2. Convierta ese archivo descargado en formato de archivo CSV, con codificaci贸n UTF-8, y en formato UNIX.
+2. Convierta ese archivo descargado en formato de archivo CSV, con codificaci髇 UTF-8, y en formato UNIX.
 3. Realice la subida del archivo anteriormente mencionado en la plataforma de Base de Datos de su preferencia.
-4. Haga las conversiones de datos necesarias antes de almacenar finalmente la informaci贸n cargada.
+4. Haga las conversiones de datos necesarias antes de almacenar finalmente la informaci髇 cargada.
 
-Informaci贸n actualizada: <strong>2022-01-27</strong>
-驴Deseas colaborar en este repositorio y actualizarlo? [Contactame...](mailto:boraolim@hotmail.com)
+Informaci髇 actualizada: <strong>2022-01-27</strong>
+緿eseas colaborar en este repositorio y actualizarlo? [Contactame...](mailto:boraolim@hotmail.com)
 
