@@ -75,11 +75,8 @@ SELECT 138 [id_country],
        1 [C2], 0 [C3], GETUTCDATE() [C4], 0 [C5], null [C6], null [C7], null [C8], null [C9]
   FROM [dbo].[CPdescarga] t1
  ORDER BY CAST(t1.d_codigo AS int) ASC, CAST(t1.c_mnpio AS int) ASC, CAST(t1.id_ASenta_cpcons AS int) ASC;
-<<<<<<< HEAD
-=======
  
 -- Finally, drop the table if exists.
 DROP TABLE [dbo].[CPdescarga];  
->>>>>>> 271a2a7 ([main] 2022-01-27 15:00:53 Add: Initial commit)
 
 -- 1643315523-BulkInsertSEPOMEX.sql
